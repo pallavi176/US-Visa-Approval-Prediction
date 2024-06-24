@@ -14,3 +14,11 @@ Step 4: execute template.py to create local directory structure
 python template.py
 ```
 
+Step 5: Commit to Github repo
+```bash
+git add .
+git commit -m "directory structure"
+git status
+git push origin main
+```
+
